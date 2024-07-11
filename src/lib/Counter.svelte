@@ -6,5 +6,5 @@
 </script>
 
 <button on:click={increment}>
-  Matipa clicked here {count} times - Yay!
+  Matipa clicked here {count} times - Yay! Another change 
 </button>
